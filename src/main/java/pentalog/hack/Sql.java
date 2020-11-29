@@ -8,4 +8,7 @@ public class Sql {
 //            return department name and number of employees for departments with more than 10 employees of age < 40
 //
 //    select d.name,count(e.id) from department d join employee e on e.dept_id = d.id where e.age<40 group by d.dept_id having count(id)>10;
+
+
+//sfsdfas
 }
